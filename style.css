@@ -15,14 +15,15 @@ body{
 main{
     margin: auto;
     padding: 127px;
-   
+    min-width: 320px;
+
+
 }
 
 img{
     display: flex;
     height: 100%;
     width: 100%;
-    min-width: 320px;
   }
 
 h2{
@@ -33,6 +34,7 @@ h2{
     font-size: 25px;
     text-align: start;
 }
+
 
 
 
